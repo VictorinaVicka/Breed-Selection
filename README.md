@@ -4,3 +4,5 @@
 ### Что используется:
 +  Xib файлы и работа в Storyboard
 +  UICollectionView
+
+![ Alt text](1. gif) / ! [](1. gif)
