@@ -5,4 +5,4 @@
 +  Xib файлы и работа в Storyboard
 +  UICollectionView
 
-[![Watch the video](https://img.youtube.com/vi/vZ5cAqNH3K8/mqdefault.jpg)](https://youtu.be/vZ5cAqNH3K8)
+[![Watch the video](https://img.youtube.com/vi/vZ5cAqNH3K8/hqdefault.jpg)](https://youtu.be/vZ5cAqNH3K8) 
